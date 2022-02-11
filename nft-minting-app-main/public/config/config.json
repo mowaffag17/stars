@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8b2D6cE193F61b6D96533EB2980E4b95B237a850",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x8b2d6ce193f61b6d96533eb2980e4b95b237a850",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Stars Pixel",
+  "SYMBOL": "SPNFT",
+  "MAX_SUPPLY": 180,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/stars-pixel",
+  "SHOW_BACKGROUND": true
+}
